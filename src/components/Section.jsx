@@ -20,7 +20,7 @@ export const Section = () => {
         <button className="text-[18px] mt-10 font-bold bg-[#141414] text-white border-[#141414] border rounded-2xl py-3.5 px-7 cursor-pointer transition">
           Learn more
         </button>
-        <div className="sm:mt-28 mt-20 grid grid-cols-4 place-items-center gap-5 items-center">
+        <div className="sm:mt-28 mt-20 grid grid-cols-4 place-items-center items-center">
           <div>
             <img src="/images/client-databiz.svg" alt="hero-image" />
           </div>
@@ -28,10 +28,10 @@ export const Section = () => {
             <img src="/images/client-audiophile.svg" alt="hero-image" />
           </div>
           <div>
-            <img src="/images/client-maker.svg" alt="hero-image" />
+            <img src="/images/client-meet.svg" alt="hero-image" />
           </div>
           <div>
-            <img src="/images/client-meet.svg" alt="hero-image" />
+            <img src="/images/client-maker.svg" alt="hero-image" />
           </div>
         </div>
       </div>
